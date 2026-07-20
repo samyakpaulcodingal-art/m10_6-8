@@ -1,0 +1,129 @@
+activity1
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Rocket Mission</title>
+</head>
+
+<body>
+
+  <center>
+    <h1>Welcome to My Rocket Mission!</h1>
+
+    <p>Today, our rocket is getting ready to travel across space.</p>
+
+    <h2>Step 1: Meet the Rocket</h2>
+    <img src="rocket.png" alt="A rocket ready to launch" width="350" height="350">
+
+    <p>This rocket will take us to a new planet.</p>
+
+    <h2>Step 2: Our Space Destination</h2>
+    <img src="planet.png" alt="A colourful planet in space" width="350" height="350">
+
+    <p>We found a beautiful planet far away from Earth.</p>
+
+    <h2>Step 3: The Space Explorer</h2>
+    <img src="astronaut.png" alt="An astronaut exploring space" width="350" height="350">
+
+    <p>The astronaut is ready to explore the planet.</p>
+
+    <h2>Mission Complete!</h2>
+    <p>We used the image tag to add pictures and tell a space story on our webpage.</p>
+  </center>
+
+</body>
+
+</html>
+
+activity2
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Aquatic Beats Party</title>
+</head>
+
+<body>
+
+  <center>
+
+    <h1>Aquatic Beats Party</h1>
+
+    <h2>The ocean stage is ready!</h2>
+
+    <p>
+      Play the music and watch the aquatic animals swim through their beautiful underwater world.
+    </p>
+
+    <audio controls loop>
+      <source src="music.mp3" type="audio/mpeg">
+      Your browser does not support the audio tag.
+    </audio>
+
+    <br><br>
+
+    <video width="500" height="350" controls poster="poster.png" loop>
+      <source src="aqua.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <h2>The ocean show is live!</h2>
+
+    <p>
+      This webpage uses the audio tag for music and the video tag to bring the aquatic animal adventure to life.
+    </p>
+
+  </center>
+
+</body>
+
+</html>
+
+activity3
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Iframe in HTML</title>
+</head>
+
+<body>
+
+  <center>
+
+    <h1>Super game zone</h1>
+
+    <h2>Play the challenge inside this webpage!</h2>
+
+    <p>
+      Jump, move, dodge, and try to complete the game without opening a new tab.
+    </p>
+
+    <iframe 
+      src="https://scratch.mit.edu/projects/60917032/embed"
+      allowtransparency="true"
+      width="500"
+      height="400"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen>
+    </iframe>
+
+    <h2>The game is live!</h2>
+
+    <p>
+      This webpage uses an iframe to show an exciting Scratch game directly inside HTML.
+    </p>
+
+  </center>
+
+</body>
+
+</html>
