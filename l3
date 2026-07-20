@@ -1,0 +1,161 @@
+activity1
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Explore the Web</title>
+</head>
+<body>
+
+  <h1>Explore the Web</h1>
+  <p>Here are some of the most amazing websites on the internet. Click any link to visit!</p>
+
+  <h2>Learn Something New</h2>
+  <p>Visit <a href="https://www.wikipedia.org/">Wikipedia</a> — the world's largest free encyclopaedia.</p>
+  <p>Discover books that change the way you think at <a href="https://www.goodreads.com/">Goodreads</a> — the world's largest community of readers sharing books about life, courage, and wisdom.</p>
+
+  <h2>Explore Space</h2>
+  <p>Discover the universe at <a href="https://www.nasa.gov/">NASA</a> — live rocket launches, Mars missions and more.</p>
+  <p>See the deepest images of space at <a href="https://webb.nasa.gov/">James Webb Space Telescope</a>.</p>
+
+  <h2>Explore Earth</h2>
+  <p>Explore a live 3D view of our planet at <a href="https://eyes.nasa.gov/apps/earth/">NASA Eyes on the Earth</a> — an interactive 3D globe showing real satellites orbiting Earth right now, built by NASA.</p>
+  <p>Discover nature and wildlife at <a href="https://www.nationalgeographic.com/">National Geographic</a>.</p>
+
+</body>
+</html>
+
+activity2
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Planet Earth</title>
+</head>
+<body>
+
+  <h1>Planet Earth — Quick Guide</h1>
+  <p>Our planet is full of incredible records, species, and facts. Here is a quick guide using lists!</p>
+
+  <h2>Steps to Protect Our Planet:</h2>
+  <ol>
+    <li>Switch off lights when you leave a room</li>
+    <li>Use a reusable water bottle every day</li>
+    <li>Walk or cycle instead of travelling by car</li>
+    <li>Plant a tree in your neighbourhood</li>
+    <li>Spread awareness — talk to your friends!</li>
+  </ol>
+
+  <h2>Incredible Natural Wonders:</h2>
+  <ul>
+    <li>Amazon Rainforest — home to 10% of all species on Earth</li>
+    <li>Great Barrier Reef — the largest coral reef, visible from space</li>
+    <li>Mount Everest — the highest point on Earth at 8,849 metres</li>
+    <li>Sahara Desert — the largest hot desert in the world</li>
+  </ul>
+
+  <h2>Key Terms:</h2>
+  <dl>
+    <dt>Climate Change</dt>
+    <dd>Long-term shifts in global temperature caused by human activity</dd>
+
+    <dt>Renewable Energy</dt>
+    <dd>Energy from natural sources like sunlight and wind that never run out</dd>
+
+    <dt>Biodiversity</dt>
+    <dd>The variety of all living species on Earth</dd>
+  </dl>
+
+</body>
+</html>
+activity3
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Olympic Records</title>
+</head>
+<body>
+
+  <h1>Olympic Games — Record Breakers</h1>
+  <p>The Olympics bring every country in the world together. Here are some of the greatest athletes who ever competed.</p>
+
+  <h2>Greatest Olympic Athletes of All Time</h2>
+  <table border="3">
+    <tr>
+      <th>Athlete</th>
+      <th>Country</th>
+      <th>Sport</th>
+      <th>Gold Medals</th>
+    </tr>
+    <tr>
+      <td>Michael Phelps</td>
+      <td>United States</td>
+      <td>Swimming</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>Simone Biles</td>
+      <td>United States</td>
+      <td>Gymnastics</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Usain Bolt</td>
+      <td>Jamaica</td>
+      <td>Sprinting</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Nadia Comaneci</td>
+      <td>Romania</td>
+      <td>Gymnastics</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Neeraj Chopra</td>
+      <td>India</td>
+      <td>Javelin Throw</td>
+      <td>1</td>
+    </tr>
+  </table>
+
+  <h2>Recent Olympic Host Cities</h2>
+  <table border="3">
+    <tr>
+      <th>Year</th>
+      <th>City</th>
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td>London</td>
+      <td>United Kingdom</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>Rio de Janeiro</td>
+      <td>Brazil</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Tokyo</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>Paris</td>
+      <td>France</td>
+    </tr>
+    <tr>
+      <td>2028</td>
+      <td>Los Angeles</td>
+      <td>United States</td>
+    </tr>
+  </table>
+
+</body>
+</html>
